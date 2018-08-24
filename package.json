@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-locale-da",
+  "version": "1.0.0",
+  "description": "Danish localization for @vue/cli",
+  "unpkg": "./locales/da.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersSchmidtHansen/vue-cli-locale-da.git"
+  },  
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue-cli",
+    "danish",
+    "locale"
+  ],
+  "author": "Anders Schmidt Hansen <me@andersschmidt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndersSchmidtHansen/vue-cli-locale-da/issues"
+  },
+  "homepage": "https://github.com/AndersSchmidtHansen/vue-cli-locale-da#readme"
+}
